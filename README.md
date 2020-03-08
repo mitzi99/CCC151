@@ -8,3 +8,6 @@ Delete, and show the list of datas that are stored.
 Make sure to install Python 3.7 and Tkinter package in your computer.
 
 I acknowlege that I have used other people's ideas in creating this code.
+
+
+# CSV database is being used in this code
